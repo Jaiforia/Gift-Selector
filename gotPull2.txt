@@ -1,0 +1,1 @@
+Will apply git pull command without argument; being on test branch to see the bydefault behaviour of git pull command
